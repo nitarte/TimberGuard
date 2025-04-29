@@ -1,4 +1,4 @@
-![1000-7]([https://raw.githubusercontent.com/username/repo/main/demo.gif](https://pa1.narvii.com/6522/f5a97557560356f462ac432b427dbb9094b5a5f9_hq.gif))
+![1000-7](https://pa1.narvii.com/6522/f5a97557560356f462ac432b427dbb9094b5a5f9_hq.gif)
 
 ---
 
